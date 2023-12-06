@@ -1,0 +1,365 @@
+
+
+===================== LOG START 2023-12-06 04:43:05.325 =====================
+
+
+
+===================== LOG START 2023-12-06 04:43:34.421 =====================
+
+[2023-12-06 04:43:34.424][info][app<18,12>] version: 1.0.0
+[2023-12-06 04:43:34.426][info][app<19,12>] process id: 19164
+[2023-12-06 04:43:34.427][info][app<20,12>] environment: development
+[2023-12-06 04:43:34.428][info][app<21,12>] service name: ave-aggregation-service
+[2023-12-06 04:43:34.428][info][Server<27,16>] server initializing...
+[2023-12-06 04:43:34.430][success][Server<58,16>] server initialized
+[2023-12-06 04:43:34.432][info][Server<78,20>] route /report attached
+[2023-12-06 04:43:34.450][success][Server<166,16>] server listening on port 3010 (127.0.0.1)
+[2023-12-06 04:43:34.451][success][app<50,20>] service startup completed (30ms)
+[2023-12-06 04:44:36.222][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 04:44:36.223 =====================
+
+
+
+===================== LOG START 2023-12-06 04:44:38.153 =====================
+
+[2023-12-06 04:44:38.157][info][app<18,12>] version: 1.0.0
+[2023-12-06 04:44:38.160][info][app<19,12>] process id: 24072
+[2023-12-06 04:44:38.161][info][app<20,12>] environment: development
+[2023-12-06 04:44:38.161][info][app<21,12>] service name: ave-aggregation-service
+[2023-12-06 04:44:38.162][info][Server<27,16>] server initializing...
+[2023-12-06 04:44:38.164][success][Server<58,16>] server initialized
+[2023-12-06 04:44:38.166][info][Server<78,20>] route /report attached
+[2023-12-06 04:44:38.189][success][Server<166,16>] server listening on port 3010 (127.0.0.1)
+[2023-12-06 04:44:38.191][success][app<50,20>] service startup completed (38ms)
+[2023-12-06 04:44:46.775][error][Server<122,32>] TypeError: Class constructor SuccessfulBody cannot be invoked without 'new'
+    at /list (file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/routes/report.js:14:16)
+    at file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/server/Server.js:98:17
+    at new Promise (<anonymous>)
+    at #requestProcessing (file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/server/Server.js:93:16)
+    at file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/server/Server.js:72:84
+    at dispatch (E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-compose\index.js:42:32)
+    at E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-router\lib\router.js:423:16
+    at dispatch (E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-compose\index.js:42:32)
+    at E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-router\lib\router.js:428:31)[2023-12-06 04:44:53.856][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 04:44:53.859 =====================
+
+
+
+===================== LOG START 2023-12-06 04:44:55.627 =====================
+
+[2023-12-06 04:44:55.632][info][app<18,12>] version: 1.0.0
+[2023-12-06 04:44:55.635][info][app<19,12>] process id: 24156
+[2023-12-06 04:44:55.637][info][app<20,12>] environment: development
+[2023-12-06 04:44:55.638][info][app<21,12>] service name: ave-aggregation-service
+[2023-12-06 04:44:55.639][info][Server<27,16>] server initializing...
+[2023-12-06 04:44:55.642][success][Server<58,16>] server initialized
+[2023-12-06 04:44:55.644][info][Server<78,20>] route /report attached
+[2023-12-06 04:44:55.667][success][Server<166,16>] server listening on port 3010 (127.0.0.1)
+[2023-12-06 04:44:55.668][success][app<50,20>] service startup completed (41ms)
+[2023-12-06 04:44:58.985][error][Server<103,36>] Error: response is invalid
+    at file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/server/Server.js:102:43
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[2023-12-06 04:45:38.364][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 04:45:38.368 =====================
+
+
+
+===================== LOG START 2023-12-06 04:45:40.322 =====================
+
+[2023-12-06 04:45:40.325][info][app<18,12>] version: 1.0.0
+[2023-12-06 04:45:40.328][info][app<19,12>] process id: 12188
+[2023-12-06 04:45:40.329][info][app<20,12>] environment: development
+[2023-12-06 04:45:40.330][info][app<21,12>] service name: ave-aggregation-service
+[2023-12-06 04:45:40.330][info][Server<27,16>] server initializing...
+[2023-12-06 04:45:40.332][success][Server<58,16>] server initialized
+[2023-12-06 04:45:40.334][info][Server<78,20>] route /report attached
+[2023-12-06 04:45:40.356][success][Server<166,16>] server listening on port 3010 (127.0.0.1)
+[2023-12-06 04:45:40.358][success][app<50,20>] service startup completed (36ms)
+[2023-12-06 04:48:56.249][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 04:48:56.251 =====================
+
+
+
+===================== LOG START 2023-12-06 04:48:58.281 =====================
+
+[2023-12-06 04:48:58.285][info][app<18,12>] version: 1.0.0
+[2023-12-06 04:48:58.287][info][app<19,12>] process id: 25528
+[2023-12-06 04:48:58.288][info][app<20,12>] environment: development
+[2023-12-06 04:48:58.288][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 04:48:58.289][info][Server<27,16>] server initializing...
+[2023-12-06 04:48:58.291][success][Server<58,16>] server initialized
+[2023-12-06 04:48:58.292][info][Server<78,20>] route /report attached
+[2023-12-06 04:48:58.317][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 04:48:58.318][success][app<50,20>] service startup completed (37ms)
+[2023-12-06 05:01:38.836][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:01:38.837 =====================
+
+
+
+===================== LOG START 2023-12-06 05:02:23.145 =====================
+
+[2023-12-06 05:02:23.148][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:02:23.154][info][app<19,12>] process id: 20444
+[2023-12-06 05:02:23.156][info][app<20,12>] environment: development
+[2023-12-06 05:02:23.156][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:02:23.157][info][Server<27,16>] server initializing...
+[2023-12-06 05:02:23.158][success][Server<58,16>] server initialized
+[2023-12-06 05:02:23.160][info][Server<78,20>] route /report attached
+[2023-12-06 05:02:23.165][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:02:23.166][success][app<50,20>] service startup completed (20ms)
+[2023-12-06 05:03:26.108][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:03:26.110 =====================
+
+
+
+===================== LOG START 2023-12-06 05:03:29.012 =====================
+
+[2023-12-06 05:03:29.023][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:03:29.059][info][app<19,12>] process id: 12652
+[2023-12-06 05:03:29.064][info][app<20,12>] environment: development
+[2023-12-06 05:03:29.067][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:03:29.083][info][Server<27,16>] server initializing...
+[2023-12-06 05:03:29.099][success][Server<58,16>] server initialized
+[2023-12-06 05:03:29.108][info][Server<78,20>] route /report attached
+[2023-12-06 05:03:29.140][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:03:29.141][success][app<50,20>] service startup completed (129ms)
+[2023-12-06 05:03:51.647][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:03:51.650 =====================
+
+
+
+===================== LOG START 2023-12-06 05:03:53.688 =====================
+
+[2023-12-06 05:03:53.691][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:03:53.693][info][app<19,12>] process id: 14872
+[2023-12-06 05:03:53.694][info][app<20,12>] environment: development
+[2023-12-06 05:03:53.695][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:03:53.695][info][Server<27,16>] server initializing...
+[2023-12-06 05:03:53.697][success][Server<58,16>] server initialized
+[2023-12-06 05:03:53.699][info][Server<78,20>] route /report attached
+[2023-12-06 05:03:53.705][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:03:53.706][success][app<50,20>] service startup completed (18ms)
+[2023-12-06 05:04:04.705][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:04:04.708 =====================
+
+
+
+===================== LOG START 2023-12-06 05:04:07.293 =====================
+
+[2023-12-06 05:04:07.296][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:04:07.298][info][app<19,12>] process id: 12100
+[2023-12-06 05:04:07.299][info][app<20,12>] environment: development
+[2023-12-06 05:04:07.300][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:04:07.300][info][Server<27,16>] server initializing...
+[2023-12-06 05:04:07.302][success][Server<58,16>] server initialized
+[2023-12-06 05:04:07.304][info][Server<78,20>] route /report attached
+[2023-12-06 05:04:07.311][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:04:07.312][success][app<50,20>] service startup completed (19ms)
+[2023-12-06 05:04:33.815][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:04:33.817 =====================
+
+
+
+===================== LOG START 2023-12-06 05:04:35.816 =====================
+
+[2023-12-06 05:04:35.820][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:04:35.822][info][app<19,12>] process id: 15668
+[2023-12-06 05:04:35.824][info][app<20,12>] environment: development
+[2023-12-06 05:04:35.824][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:04:35.825][info][Server<27,16>] server initializing...
+[2023-12-06 05:04:35.828][success][Server<58,16>] server initialized
+[2023-12-06 05:04:35.831][info][Server<78,20>] route /report attached
+[2023-12-06 05:04:35.839][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:04:35.841][success][app<50,20>] service startup completed (25ms)
+[2023-12-06 05:04:44.455][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:04:44.459 =====================
+
+
+
+===================== LOG START 2023-12-06 05:04:46.444 =====================
+
+[2023-12-06 05:04:46.448][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:04:46.450][info][app<19,12>] process id: 24304
+[2023-12-06 05:04:46.451][info][app<20,12>] environment: development
+[2023-12-06 05:04:46.452][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:04:46.452][info][Server<27,16>] server initializing...
+[2023-12-06 05:04:46.454][success][Server<58,16>] server initialized
+[2023-12-06 05:04:46.456][info][Server<78,20>] route /report attached
+[2023-12-06 05:04:46.462][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:04:46.463][success][app<50,20>] service startup completed (19ms)
+[2023-12-06 05:05:05.066][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:05:05.067 =====================
+
+
+
+===================== LOG START 2023-12-06 05:05:07.138 =====================
+
+[2023-12-06 05:05:07.141][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:05:07.143][info][app<19,12>] process id: 25928
+[2023-12-06 05:05:07.145][info][app<20,12>] environment: development
+[2023-12-06 05:05:07.145][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:05:07.146][info][Server<27,16>] server initializing...
+[2023-12-06 05:05:07.149][success][Server<58,16>] server initialized
+[2023-12-06 05:05:07.151][info][Server<78,20>] route /report attached
+[2023-12-06 05:05:07.159][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:05:07.161][success][app<50,20>] service startup completed (23ms)
+[2023-12-06 05:05:17.353][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:05:17.355 =====================
+
+
+
+===================== LOG START 2023-12-06 05:05:19.387 =====================
+
+[2023-12-06 05:05:19.390][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:05:19.393][info][app<19,12>] process id: 10860
+[2023-12-06 05:05:19.394][info][app<20,12>] environment: development
+[2023-12-06 05:05:19.395][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:05:19.395][info][Server<27,16>] server initializing...
+[2023-12-06 05:05:19.398][success][Server<58,16>] server initialized
+[2023-12-06 05:05:19.401][info][Server<78,20>] route /report attached
+[2023-12-06 05:05:19.409][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:05:19.410][success][app<50,20>] service startup completed (23ms)
+[2023-12-06 05:39:18.711][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:39:20.275 =====================
+
+
+
+===================== LOG START 2023-12-06 05:39:54.195 =====================
+
+[2023-12-06 05:39:54.198][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:39:54.201][info][app<19,12>] process id: 17628
+[2023-12-06 05:39:54.202][info][app<20,12>] environment: development
+[2023-12-06 05:39:54.202][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:39:54.203][info][Server<27,16>] server initializing...
+[2023-12-06 05:39:54.207][success][Server<58,16>] server initialized
+[2023-12-06 05:39:54.210][info][Server<78,20>] route /report attached
+[2023-12-06 05:39:54.262][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:39:54.263][success][app<50,20>] service startup completed (68ms)
+[2023-12-06 05:40:28.642][error][Server<122,32>] TypeError: col.find(...).toArray(...).slice is not a function
+    at /list (file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/routes/report.js:15:23)
+    at file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/server/Server.js:98:17
+    at new Promise (<anonymous>)
+    at #requestProcessing (file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/server/Server.js:93:16)
+    at file:///E:/workplace/webstorm/sens_vue/HMS_pink_service/server/Server.js:72:84
+    at dispatch (E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-compose\index.js:42:32)
+    at E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-router\lib\router.js:423:16
+    at dispatch (E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-compose\index.js:42:32)
+    at E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\workplace\webstorm\sens_vue\HMS_pink_service\node_modules\koa-router\lib\router.js:428:31)[2023-12-06 05:41:02.780][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:41:02.784 =====================
+
+
+
+===================== LOG START 2023-12-06 05:41:25.177 =====================
+
+[2023-12-06 05:41:25.184][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:41:25.190][info][app<19,12>] process id: 13272
+[2023-12-06 05:41:25.194][info][app<20,12>] environment: development
+[2023-12-06 05:41:25.196][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:41:25.198][info][Server<27,16>] server initializing...
+[2023-12-06 05:41:25.202][success][Server<58,16>] server initialized
+[2023-12-06 05:41:25.212][info][Server<78,20>] route /report attached
+[2023-12-06 05:41:25.222][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:41:25.226][success][app<50,20>] service startup completed (48ms)
+[2023-12-06 05:42:32.538][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 05:42:32.541 =====================
+
+
+
+===================== LOG START 2023-12-06 05:42:35.884 =====================
+
+[2023-12-06 05:42:35.890][info][app<18,12>] version: 1.0.0
+[2023-12-06 05:42:35.893][info][app<19,12>] process id: 28596
+[2023-12-06 05:42:35.895][info][app<20,12>] environment: development
+[2023-12-06 05:42:35.896][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 05:42:35.898][info][Server<27,16>] server initializing...
+[2023-12-06 05:42:35.901][success][Server<58,16>] server initialized
+[2023-12-06 05:42:35.903][info][Server<78,20>] route /report attached
+[2023-12-06 05:42:35.913][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 05:42:35.914][success][app<50,20>] service startup completed (30ms)
+
+
+===================== LOG START 2023-12-06 06:46:12.649 =====================
+
+[2023-12-06 06:46:12.697][info][app<18,12>] version: 1.0.0
+[2023-12-06 06:46:12.700][info][app<19,12>] process id: 15260
+[2023-12-06 06:46:12.701][info][app<20,12>] environment: development
+[2023-12-06 06:46:12.701][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 06:46:12.702][info][Server<27,16>] server initializing...
+[2023-12-06 06:46:12.703][success][Server<58,16>] server initialized
+[2023-12-06 06:46:12.704][info][Server<78,20>] route /report attached
+[2023-12-06 06:46:12.709][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 06:46:12.709][success][app<50,20>] service startup completed (60ms)
+[2023-12-06 07:27:16.104][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 07:27:16.539 =====================
+
+
+
+===================== LOG START 2023-12-06 07:27:45.365 =====================
+
+[2023-12-06 07:27:45.367][info][app<18,12>] version: 1.0.0
+[2023-12-06 07:27:45.370][info][app<19,12>] process id: 22752
+[2023-12-06 07:27:45.371][info][app<20,12>] environment: development
+[2023-12-06 07:27:45.372][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 07:27:45.373][info][Server<27,16>] server initializing...
+[2023-12-06 07:27:45.375][success][Server<58,16>] server initialized
+[2023-12-06 07:27:45.377][info][Server<78,20>] route /report attached
+[2023-12-06 07:27:45.383][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 07:27:45.384][success][app<50,20>] service startup completed (19ms)
+[2023-12-06 13:32:44.958][debug][Server<83,20>] -> GET /report/list2 request is not supported - 127.0.0.1
+[2023-12-06 13:44:05.151][debug][Server<83,20>] -> GET /report/list2 request is not supported - 127.0.0.1
+[2023-12-06 13:44:50.120][debug][Server<83,20>] -> GET /report/list2 request is not supported - 127.0.0.1
+[2023-12-06 13:45:32.079][debug][Server<83,20>] -> GET /report/list2 request is not supported - 127.0.0.1
+[2023-12-06 13:49:39.661][debug][Server<83,20>] -> GET /report/list2 request is not supported - 127.0.0.1
+[2023-12-06 13:49:51.719][info][app<38,16>] service exit
+
+
+===================== LOG END 2023-12-06 13:49:51.853 =====================
+
+
+
+===================== LOG START 2023-12-06 13:52:43.417 =====================
+
+[2023-12-06 13:52:43.452][info][app<18,12>] version: 1.0.0
+[2023-12-06 13:52:43.455][info][app<19,12>] process id: 15552
+[2023-12-06 13:52:43.456][info][app<20,12>] environment: development
+[2023-12-06 13:52:43.456][info][app<21,12>] service name: hms-pink-service
+[2023-12-06 13:52:43.457][info][Server<27,16>] server initializing...
+[2023-12-06 13:52:43.459][success][Server<58,16>] server initialized
+[2023-12-06 13:52:43.462][info][Server<78,20>] route /report attached
+[2023-12-06 13:52:43.556][success][Server<166,16>] server listening on port 3010 (0.0.0.0)
+[2023-12-06 13:52:43.579][success][app<50,20>] service startup completed (162ms)
+[2023-12-06 15:09:58.210][debug][Server<83,20>] -> GET /report/list request is not supported - 127.0.0.1
+[2023-12-06 15:11:11.758][debug][Server<83,20>] -> GET /report/list request is not supported - 127.0.0.1

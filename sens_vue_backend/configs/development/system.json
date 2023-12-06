@@ -1,0 +1,35 @@
+{
+    "enableNaming": false,
+    "requestLog": false,
+    "tmpDir": "./tmp",
+    "logDir": "./logs",
+    "logWriteInterval": 500,
+    "logFileExpires": 2626560000,
+    "requester": {
+        "timeout": 60000,
+        "downloadTimeout": 300000
+    },
+    "requestBody": {
+        "enableTypes": [
+            "json",
+            "form",
+            "text",
+            "xml"
+        ],
+        "encoding": "utf-8",
+        "formLimit": "100mb",
+        "jsonLimit": "100mb",
+        "textLimit": "100mb",
+        "xmlLimit": "100mb",
+        "formidable": {
+            "maxFileSize": "1gb"
+        },
+        "multipart": true,
+        "parsedMethods": [
+            "POST",
+            "PUT",
+            "PATCH"
+        ]
+    },
+    "debug": true
+}
